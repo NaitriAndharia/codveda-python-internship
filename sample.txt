@@ -1,0 +1,3 @@
+Hello My Name is Naitri.
+I am learning Python.
+This is my Codveda Internship Project.
